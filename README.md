@@ -1,1 +1,2 @@
-This folder is the corpus directory for #feecting scripts for the corpus. 
+# feecting-scripts
+This is a repository for my becoming a #FEECTING programmer.
